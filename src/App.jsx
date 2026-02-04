@@ -2,7 +2,7 @@ import { useState } from 'react'
 import {Route,Routes} from 'react-router-dom'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import Welcome from './components/Welcome';
+import Welcome from './Components/Welcome';
 import Signup from './Components/Signup';
 import Login from './Components/Login';
 import Dashboard from './Components/Dashboard';
