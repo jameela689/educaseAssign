@@ -7,7 +7,7 @@ import Signup from './Components/Signup';
 import Login from './Components/Login';
 import Dashboard from './Components/Dashboard';
 // import './App.css'
-import './components/styles.css';
+import './Components/styles.css';
 function App() {
   const [count, setCount] = useState(0)
 
